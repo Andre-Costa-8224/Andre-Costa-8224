@@ -5,6 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Andre-Costa-8224&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Costa-8224&layout=compact&theme=dracula">
 </div>
+<br/>
 <div>
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -17,7 +18,6 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
-<br/>
 <hr/>
 <a href="https://www.linkedin.com/mwlite/in/andré-francisco-silva-da-costa">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
