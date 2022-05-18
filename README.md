@@ -6,11 +6,9 @@
 </div>
 
 <div>
-<a href="https://github.com/Andre-Costa-8224">
-<img src="https://github-readme-stats.vercel.app/api?username=Andre-Costa-8224&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Costa-8224&layout=compact&theme=dracula">
 </div>
 <br/>
+<hr/>
 <div>
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
