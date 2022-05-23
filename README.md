@@ -4,10 +4,10 @@
 <p>Full Stack pela Recode PRO 2021 ✓</p>
 <p>Informática para internet em andamento pelo IFPE ✓</p>
 </div>
+<hr/>
 
-<div>
-</div>
-<br/>
+<h2>Most used languages:</h2>
+
 <hr/>
 <div>
 <div style="display: inline-block;">
