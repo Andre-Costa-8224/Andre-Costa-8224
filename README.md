@@ -6,9 +6,8 @@
 </div>
 <hr/>
 
-<h2>Most used languages:</h2>
+<h2>Most used technologies:</h2>
 
-<hr/>
 <div>
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
