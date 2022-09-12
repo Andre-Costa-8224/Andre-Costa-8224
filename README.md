@@ -2,7 +2,6 @@
 
 <div>
 <p>Full Stack pela Recode PRO 2021 ✓</p>
-<p>Informática para internet em andamento pelo IFPE ✓</p>
 </div>
 <hr/>
 
