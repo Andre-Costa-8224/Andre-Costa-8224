@@ -1,7 +1,8 @@
 ### Olá, André aqui!👋
 
 <div>
-<p>Full Stack pela Recode PRO 2021 ✓</p>
+<p>Web devolper✓</p>
+<p>Python programmer✓</p>
 </div>
 <hr/>
 
