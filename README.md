@@ -1,8 +1,9 @@
 ### Olá, André aqui!👋
 
 <div>
-<p>Web devolper✓</p>
-<p>Python programmer✓</p>
+  <p>Web devolper✓</p>
+  <p>Python programmer✓</p>
+  <p>Software Engeneering Student</p>
 </div>
 <hr/>
 
