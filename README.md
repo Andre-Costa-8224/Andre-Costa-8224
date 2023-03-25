@@ -1,13 +1,13 @@
 ### Olá, André aqui!👋
 
 <div>
-  <p>Web devolper✓</p>
+  <p>Web devoloper✓</p>
   <p>Python programmer✓</p>
-  <p>Software Engeneering Student</p>
+  <p>Software Engeneering Student✓</p>
 </div>
 <hr/>
 
-<h2>Most used technologies:</h2>
+<h2>Some technologies used:</h2>
 
 <div>
 <div style="display: inline-block;">
