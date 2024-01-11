@@ -2,7 +2,6 @@
 
 <div>
   <p>Web devoloper✓</p>
-  <p>Python programmer✓</p>
   <p>Software Engeneering Student✓</p>
 </div>
 <hr/>
