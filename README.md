@@ -6,7 +6,7 @@
 </div>
 <hr/>
 
-<h2>Some technologies used:</h2>
+<h2>Familiaridade com as seguintes tecnologias:</h2>
 
 <div>
 <div style="display: inline-block;">
